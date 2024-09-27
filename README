@@ -3,4 +3,4 @@ To install this package, please look at the INSTALL file.
 This package contains several subdirectories corresponding to COIN-OR
 projects (www.coin-or.org). The AUTHORS, LICENSE and README files in 
 each of the subdirectories give more information about these projects.
-
+This is based on a new branch ('dwr-custom-cbc) that we created to implement our customization changes. 
